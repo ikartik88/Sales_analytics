@@ -1,4 +1,4 @@
-# analytics
+# Sales_analytics
 business analytics
 Python project to analyze sales data to improve customer experience and sales
 
